@@ -3,7 +3,7 @@ import { Facebook, Instagram, X } from "lucide-react";
 export const Footer = () => {
   return (
     <div className="bg-gray-950">
-      <div className="md:w-[1100px] text-white mx-auto py-10 flex flex-col md:flex-row md:justify-between text-center md:text-start w-screen">
+      <div className="w-full md:w-[1100px] mx-auto text-white py-10 flex flex-col md:flex-row md:justify-between text-center md:text-start">
         <div className="flex flex-col gap-6">
           <h1 className="font-bold text-xl">audiophile</h1>
           <p className="text-gray-400 md:w-[550px] w-[350px] mx-auto">

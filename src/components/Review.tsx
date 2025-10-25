@@ -2,7 +2,7 @@ export const Review = () => {
   return (
     <>
       <div className="flex flex-col md:flex-row md:justify-between items-center md:my-40 my-20 w-screen md:w-[1100px]">
-        <div className="md:w-[300px] md:text-left md:block text-center w-screen flex flex-col items-center">
+        <div className="md:w-[300px] md:text-left md:block text-center w-full flex flex-col items-center">
           <h1 className="font-semibold text-4xl w-86 ">
             BRINGING YOU THE <span className="text-primary"> BEST </span>
             AUDIO GEAR

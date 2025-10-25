@@ -23,7 +23,9 @@ export const Types = () => {
 
       <div className="grid gap-8 md:grid-cols-2 bg-gray-300 md:rounded-lg relative">
         <div className="md:text-gray-900 md:grid  md:place-content-center md:w-[360px] md:relative absolute z-20 w-screen flex flex-col justify-center items-center p-6">
-          <p className="text-2xl my-4 text-white">ZX7 SPEAKERS</p>
+          <p className="text-2xl my-4 md:text-gray-900 text-white">
+            ZX7 SPEAKERS
+          </p>
           <button className=" md:border md:border-gray-900 p-4 w-48 md:text-gray-900 font-bold bg-transparent text-white border-4 border-white ">
             SEE PRODUCT
           </button>

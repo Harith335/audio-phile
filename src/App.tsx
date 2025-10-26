@@ -10,7 +10,7 @@ function App() {
     <div className="overflow-x-hidden bg-white">
       <Navbar />
       <HeroSection />
-      <section className="max-w-[1100px] mx-auto px-4 grid gap-20 my-20">
+      <section className="max-w-[1100px] mx-auto grid gap-20 my-20">
         <Cards />
         <Types />
         <Review />

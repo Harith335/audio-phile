@@ -1,6 +1,6 @@
 export const Types = () => {
   return (
-    <div className="space-y-10 mx- auto">
+    <div className="space-y-10">
       <div className="grid place-content-center md:w-[1100px] w-screen md:gap-8 md:p-8 md:grid-cols-2 bg-primary mt-30 rounded-lg">
         <div>
           <img
